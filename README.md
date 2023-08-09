@@ -1,4 +1,4 @@
 # docs
 ドキュメントの集合体
 
-- [KiCAD](./KiCAD.md)
+- [KiCAD](./KiCAD/KiCAD.md)
