@@ -29,7 +29,8 @@ GitHub とは，バージョン管理システムである Git の仕組みを�
 すべきタスクを羅列しておき，終わったら都度チェックを入れることで何が終わっていて何が終わっていないのかが明確になるメリットがあります  
 また，Issue を立てるときに Close 条件を書いておくと，その Issue が目指すべき姿が分かりやすくなるのでなるべく書きましょう
 
-書き方は Markdown に準じます．以下に書き方の一例を示しますので参考にしてください
+書き方は Markdown に準じます．以下に書き方の一例を示しますので参考にしてください  
+GitHub Flavored Markdown での書き方については こちら：<https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax> を参照のこと
 
 ```md
 # Issue タイトル
