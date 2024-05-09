@@ -12,6 +12,10 @@ Trainer には，入力として 2 つの押しボタン式スイッチが，出
 
 <https://github.com/I-Sys-UF/Trainer>
 
+サンプルコードはこちら
+
+<https://github.com/I-Sys-UF/Trainer/releases>
+
 これ以降の作業を進めるにあたって，自分がどこまで進めたかを記録するのも兼ねて Issue というものを立ててみよう．タブの左から 2 番目に Issues というのがある．「Trainer-A Getting Started」というテンプレートを用意してあるので，Submit new Issue から新しい Issue を発行しよう．その際，「名前」は自分の名前に置き換えてほしい  
 作業が終わり次第，終わった項目にチェックを入れていくと，自分がどこまでやったのか，残りはどれだけ残っているのかが可視化できる
 
