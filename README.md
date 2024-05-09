@@ -7,3 +7,4 @@
 - [GitHub について](./GitHub/GitHub.md)
 - [KiCAD の使い方](./KiCAD/KiCAD.md)
 - [なぜプログラミングをするのか](./zatsu/why_programming.md)
+- [プログラミングの始め方](./edu/getting_started_programming.md)
