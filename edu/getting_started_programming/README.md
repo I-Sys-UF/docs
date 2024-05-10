@@ -93,7 +93,7 @@ Arduino Nano は USB コネクタが上になるように，7 セグメント LE
 
 結論は以下の通りとして欲しい
 
-<div align="center"><img src="./preferences.png"></div>
+<div align="center"><img src="./preferences.png" width="50%"></div>
 
 変更点は以下の通り
 
