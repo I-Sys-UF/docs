@@ -91,9 +91,10 @@ Arduino Nano は USB コネクタが上になるように，7 セグメント LE
 
 #### 手順①：設定変更
 
+[File] -> [Preferences] を開き，設定を変更する  
 結論は以下の通りとして欲しい
 
-<div align="center"><img src="./preferences.png" width="50%"></div>
+<div align="center"><img src="./preferences.png" width="75%"></div>
 
 変更点は以下の通り
 
@@ -101,8 +102,7 @@ Arduino Nano は USB コネクタが上になるように，7 セグメント LE
   - `d:\Arduino` に
 - 「エディター言語」の変更
   - `日本語` に
-- 「より詳細な情報を表示する」にチェック
-- 「自動保存」にチェック
+- 「より詳細な情報を表示する」にチェック（２つとも）
 
 「追加のボードマネージャのURL」は気にしなくて良いが，以下のリンクを追記しておくと後々便利
 
