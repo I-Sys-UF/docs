@@ -8,3 +8,4 @@
 - [KiCAD の使い方](./KiCAD/KiCAD.md)
 - [なぜプログラミングをするのか](./zatsu/why_programming.md)
 - [プログラミングの始め方](./edu/getting_started_programming.md)
+- [78xx の使い方](./circuit/78xx)
