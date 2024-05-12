@@ -216,7 +216,7 @@ int sum(int a, int b) {
 
     number = a + b;
 
-    return number
+    return number;
 }
 ```
 
