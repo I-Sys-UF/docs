@@ -232,14 +232,14 @@ void loop() {
   sw2_now = digitalRead(SW2);
 
   if((sw1_prev == HIGH) && (sw1_now == LOW)) {
-    digitalWrite(SW1, HIGH);
+    digitalWrite(LED1, HIGH);
   }else {
-    digitalWrite(SW1,  LOW);
+    digitalWrite(LED1,  LOW);
   }
   if((sw2_prev == HIGH) && (sw2_now == LOW)) {
-    digitalWrite(SW2, HIGH);
+    digitalWrite(LED2, HIGH);
   }else {
-    digitalWrite(SW2,  LOW);
+    digitalWrite(LED2,  LOW);
   }
 
   delay(50);
@@ -273,7 +273,7 @@ void loop() {
 
 ちなみにですが，これができるようになると，BIT（初心者向けのライントレーサ）のようにモード選択を実装することができます．押された瞬間が分かるので，それに応じてカウントアップやカウントダウンができるからですね
 
-そして実は，この処理，やや高度な工夫をすれば変数一つで実現させることが可能です  
+そして実は，この処理，やや高度な工夫をすれば変数一つで実現させることが可能です．わざわざ 1bit 分のデータの保存のためだけに 8bit も使うのはもったいないですからね
 ビット演算をガッツリ使っているので可読性は低いですが，同じ挙動をします．参考までにループ関数のみ以下に乗せておきます  
 興味があれば動かしてみて下さい．これはコピペしてもいいです
 
