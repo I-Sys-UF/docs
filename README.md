@@ -10,3 +10,4 @@
 - [プログラミングの始め方 with Trainer](./edu/getting_started_programming)
 - [Trainer でプログラミングを学ぼう](./edu/train-with-traner/)
 - [78xx の使い方](./circuit/78xx)
+- [資料の書き方・作り方](./GitHub/how_to_create_docs.md)
